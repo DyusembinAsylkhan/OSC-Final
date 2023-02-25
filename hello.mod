@@ -1,0 +1,1 @@
+/home/gospodin/hello.o
